@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1089228353429-gbkaavterk38mcqvk085gg1j2pm48dkn.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1089228353429</string>
+    <string name="google_api_key" translatable="false">AIzaSyB2kBPir7mNkmJntU1JK3LYt-B_CBypAww</string>
+    <string name="google_app_id" translatable="false">1:1089228353429:android:963dc8f2b287c90897109c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB2kBPir7mNkmJntU1JK3LYt-B_CBypAww</string>
+    <string name="google_storage_bucket" translatable="false">appperongsok.appspot.com</string>
+    <string name="project_id" translatable="false">appperongsok</string>
+</resources>
